@@ -528,7 +528,7 @@ footer {
 
 footer p {
     margin-bottom: 0.5rem;
-    font-size: 0.7rem;
+    font-size: 0.6rem;
 }
 
 .contacto-container {
@@ -600,5 +600,6 @@ footer p {
     .contacto-section h2 {
         font-size: 1.5rem;
     }
+
 
 }
